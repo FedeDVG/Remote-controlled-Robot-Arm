@@ -1,6 +1,6 @@
 # Remote-controlled-Robot-Arm
 In this repository are included circuit diagrams, CAD files and codes used for this project.
-<h2 align="left">About the code</h2>
+<h2 align="left">About the code ⚡</h2>
 
 ###
 
